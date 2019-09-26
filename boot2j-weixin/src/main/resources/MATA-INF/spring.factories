@@ -1,0 +1,3 @@
+com.boot2j.weixin.autoconfigure.WeixinConfiguration=\
+com.boot2j.weixin.autoconfigure.WeixinAutoConfiguration,\
+com.boot2j.weixin.autoconfigure.WeixinMessageConfiguration

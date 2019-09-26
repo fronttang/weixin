@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WeixinApplicationTests",
+            "request": "launch",
+            "mainClass": "com.boot2j.weixin.WeixinApplicationTests",
+            "projectName": "boot2j-weixin"
+        }
+    ]
+}
